@@ -1,8 +1,7 @@
 ---
 title: Blog index
-project: Chia sẻ tài liệu
-project.name: Chia sẻ tài liệu
 site.title: Chia sẻ tài liệu
-page.title: Index Page
 ---
-# Index page
+# Danh sách tài liệu
+## Tiếng Anh
+1. Example Link [ENGLISH](https://www.facebook.com/groups/2179620125452047/search/?query=%23Share_TiengAnh&epa=SEARCH_BOX)
