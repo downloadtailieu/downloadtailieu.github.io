@@ -1,5 +1,5 @@
 ---
-title: Blog index
+# title: Blog index
 site.title: Chia sẻ tài liệu
 ---
 # Danh sách tài liệu
